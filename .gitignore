@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Build files
+build/
+
+# Conan
+*.conan
+conan.lock
+
+# CMake/Visual Studio
+*.sln
+*.vcxproj*
+*.user
+*.obj
+*.pdb
+*.log
+CMakeFiles/
+CMakeCache.txt
+
+# System
+.DS_Store
+Thumbs.db
